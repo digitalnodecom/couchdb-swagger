@@ -1,6 +1,6 @@
 # CouchDB Swagger Generator
 
-This PHP CLI script will scrape CouchDB API documentation and generate a Swagger 3.0 file. You can find the file in this repository as well under couchdb.json.
+This PHP CLI script will scrape [CouchDB API documentation](https://docs.couchdb.org/en/stable/api/index.html) and generate a Swagger 3.0 file. You can find the file in this repository as well under couchdb.json. 
 
 ## Usage
 
